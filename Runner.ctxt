@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Runner
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=matrix
+comment2.target=boolean\ isMagicSquare(int[][])
+comment3.params=mat
+comment3.target=void\ print2D(int[][])
+numComments=4
